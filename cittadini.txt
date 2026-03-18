@@ -1,0 +1,11 @@
+Mario;Benefico;18/07/2006;HGLOWM78P90P453H;Argentina;Y;;
+Fabiana;Placentino;08/09/2004;FJUEMO09L27Y895J;Italiana;N;Via Gino Strada, 5;70126;BA
+Desirée;Favilla;21/07/2004;FVLDSR04L61L158X;Italiana;N;Via Raffaele Iacovino, 6;71016;FG
+Domenico;Ludovico;09/07/1998;JDBRJM87L95S582K;Italiana;Y;;
+Javier;Bravo;02/07/2004;BRVJRM04L02Z603N;Cilena;N;Via Gino Strada, 5;70126;BA
+Mattia;Cavallone;09/07/2000;HJERLO08P07D958U;Italiana;Y;;
+Giuseppe;Colizzi;08/08/2006;BDJUEO09L08S625L;Italiana;Y;;
+Javier;Cavallone;09/06/2008;BOLSKR48L09S468K;Cilena;Y;;
+Mattia;Pandolfi;09/08/2000;UJSHRM08L06D894P;Italiana;N;Via Gino Strada, 5;70126;BA
+Sara;Maggio;03/02/2003;MGGSRA03B43I158I;Italiana;N;Via Gino Strada, 5;70126;BA
+Klaudia;Shmilli;03/12/2002;RSSMRA85M01H501Z;Albanese;N;Via Gino Strada, 5;70126;BA
